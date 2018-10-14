@@ -5,3 +5,5 @@
 <http://jsbin.com/?html,output>
 
 ![alt](./실행화면.jpg)
+
+one-way binding 콘솔에서 한게 
