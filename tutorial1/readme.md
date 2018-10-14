@@ -7,3 +7,6 @@
 ![alt](./실행화면.jpg)
 
 one-way binding 콘솔에서 한게 
+
+https://kr.vuejs.org/v2/guide/index.html
+한글화잘되어있음
